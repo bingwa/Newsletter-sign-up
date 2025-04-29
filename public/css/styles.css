@@ -1,0 +1,22 @@
+/* Custom styles for sign-up page */
+.form-signup {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-signup .form-control {
+    border-radius: 5px;
+  }
+  
+  .form-signup .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    transition: background-color 0.2s;
+  }
+  
+  .form-signup .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
